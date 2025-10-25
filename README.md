@@ -6,7 +6,6 @@ https://docs.google.com/forms/d/1ilxgp2bQx6lNDKOApuWxtrUDnWOm3X4fs0vANDqYEpY/vie
 
 Dayform은 **나의 하루를 '설문지 폼(Form)'으로 디자인하고**, 매일 응답해 **루틴을 형성하고 기록을 분석**할 수 있는 **루틴 블로깅 앱**입니다.
 
-Repo : https://github.com/KjunLee/dayform
 
 ---
 
