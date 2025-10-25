@@ -10,6 +10,8 @@ Repo : https://github.com/KjunLee/dayform
 
 ## 📌 Introduction
 
+https://docs.google.com/forms/d/1ilxgp2bQx6lNDKOApuWxtrUDnWOm3X4fs0vANDqYEpY/viewform?edit_requested=true
+
 - 설문폼으로 디자인하는 나의 하루 : 나에게 매일 묻고 싶은 질문을 나만의 설문지 폼으로 만들 수 있습니다.
 - 루틴 블로깅하기 : 매일 설문지 폼에 응답하며 나의 하루를 블로깅합니다.
 - 기록 트래킹을 통한 동기부여 : 피드에서 트래킹된 기록들을 보며 나만의 패턴을 발견하고, 동기부여를 받을 수 있습니다.
