@@ -1,6 +1,8 @@
 # 🌞 DayForm 데이폼
 
-> **“내 하루를 디자인하는 나만의 폼(Form), 루틴 블로깅 앱 데이폼(DayForm)”**  
+> **“내 하루를 디자인하는 나만의 폼(Form), 루틴 블로깅 앱 데이폼(DayForm)”**
+
+https://docs.google.com/forms/d/1ilxgp2bQx6lNDKOApuWxtrUDnWOm3X4fs0vANDqYEpY/viewform?edit_requested=true
 
 Dayform은 **나의 하루를 '설문지 폼(Form)'으로 디자인하고**, 매일 응답해 **루틴을 형성하고 기록을 분석**할 수 있는 **루틴 블로깅 앱**입니다.
 
@@ -9,8 +11,6 @@ Repo : https://github.com/KjunLee/dayform
 ---
 
 ## 📌 Introduction
-
-https://docs.google.com/forms/d/1ilxgp2bQx6lNDKOApuWxtrUDnWOm3X4fs0vANDqYEpY/viewform?edit_requested=true
 
 - 설문폼으로 디자인하는 나의 하루 : 나에게 매일 묻고 싶은 질문을 나만의 설문지 폼으로 만들 수 있습니다.
 - 루틴 블로깅하기 : 매일 설문지 폼에 응답하며 나의 하루를 블로깅합니다.
